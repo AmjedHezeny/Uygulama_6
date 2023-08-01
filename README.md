@@ -1,3 +1,4 @@
+#Sayılarla İlgili For Döngüsü Uygulamaları 🧮📈👤🔢
 *1-) Tek ve Çift Sayıları Ayırma 🧮✨
 *2-) Kullanıcıdan 10 Sayı Toplama 📈🔢
 *3-) İsimlerin Yanına Numara Ekleme 👤🔢
